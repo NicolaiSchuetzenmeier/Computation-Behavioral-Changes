@@ -17,4 +17,10 @@ by an alteration to the constraints. We implement our approach and show that beh
     ```
     java -jar calculateChanges.jar <automaton file path> <INTEGER>
     ```
+    
+## Contact
+- [nicolai.schuetzenmeier@uni-bayreuth.de](mailto:Nicolai.Schuetzenmeier@uni-bayreuth.de)
+- [ccorea@uni-koblenz.de](mailto:ccorea@uni-koblenz.de)
+- [delfmann@uni-bayreuth.de](mailto:delfmann@uni-koblenz.de)
+- [stefan.jablonski@uni-bayreuth.de](mailto:stefan.jablonski@uni-bayreuth.de)
 
