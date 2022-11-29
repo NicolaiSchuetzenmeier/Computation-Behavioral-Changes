@@ -11,6 +11,13 @@ by an alteration to the constraints. We implement our approach and show that beh
 
 *Excerpt from the paper "Efficient Computation of Behavioral Changes in Declarative Process Models" (currently under review)*
 
+
+### Installation instructions
+
+- Download and install Java 17
+- Download and install Maven
+- Download the pre-configured JAR file "calculateChanges.jar"
+
 ### Usage of command-line interface
 
 - Calculate behavioral changes:
