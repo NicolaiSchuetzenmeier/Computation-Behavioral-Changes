@@ -25,7 +25,7 @@ by an alteration to the constraints. We implement our approach and show that beh
     java -jar calculateChanges.jar <automaton file path> <INTEGER>
     ```
 
-### Citation
+## Citation
 If you use this tool in your paper, please cite the following paper:
 ```
 @InProceedings{10.1007/978-3-031-34241-7_10,
