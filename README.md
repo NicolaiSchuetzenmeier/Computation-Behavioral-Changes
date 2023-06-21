@@ -9,7 +9,7 @@ unforeseen compliance breaches due to some overlooked changes in behavior. In th
 changes between a declarative process model M and a corresponding (edited) model M′. This supports modellers in understanding the behavioral changes induced 
 by an alteration to the constraints. We implement our approach and show that behavioral changes can be computed within milliseconds even for real-life data-sets.
 
-*Excerpt from the paper "Efficient Computation of Behavioral Changes in Declarative Process Models" (currently under review)*
+*Excerpt from the paper "Efficient Computation of Behavioral Changes in Declarative Process Models"*
 
 
 ### Installation instructions
@@ -24,6 +24,28 @@ by an alteration to the constraints. We implement our approach and show that beh
     ```
     java -jar calculateChanges.jar <automaton file path> <INTEGER>
     ```
+
+### Citation
+If you use this tool in your paper, please cite the following paper:
+```
+@InProceedings{10.1007/978-3-031-34241-7_10,
+author="Sch{\"u}tzenmeier, Nicolai
+and Corea, Carl
+and Delfmann, Patrick
+and Jablonski, Stefan",
+editor="van der Aa, Han
+and Bork, Dominik
+and Proper, Henderik A.
+and Schmidt, Rainer",
+title="Efficient Computation of Behavioral Changes in Declarative Process Models",
+booktitle="Enterprise, Business-Process and Information Systems Modeling",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="136--151",
+isbn="978-3-031-34241-7"
+}
+```
     
 ## Contact
 - [nicolai.schuetzenmeier@uni-bayreuth.de](mailto:Nicolai.Schuetzenmeier@uni-bayreuth.de)
