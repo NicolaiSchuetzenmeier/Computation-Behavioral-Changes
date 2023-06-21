@@ -28,7 +28,7 @@ by an alteration to the constraints. We implement our approach and show that beh
 ## Citation
 If you use this tool in your paper, please cite the following paper:
 ```
-@InProceedings{10.1007/978-3-031-34241-7_10,
+@InProceedings{schuetzenmeier2023,
 author="Sch{\"u}tzenmeier, Nicolai
 and Corea, Carl
 and Delfmann, Patrick
